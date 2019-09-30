@@ -1,5 +1,5 @@
 # STRIP
-This is for releasing the source code of the ACSAC paper "STRIP: A Defence Against Trojan Attacks on Deep Neural Networks". Other codes will be released soon.
+This is for releasing the source code of the ACSAC paper "STRIP: A Defence Against Trojan Attacks on Deep Neural Networks". 
 
 If you find it is useful and used for publication. Please kindly cite our work as:
 
