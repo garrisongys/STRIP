@@ -1,15 +1,14 @@
 # STRIP
 This is for releasing the source code of the ACSAC paper "STRIP: A Defence Against Trojan Attacks on Deep Neural Networks". 
 
-If you find it is useful and used for publication. Please kindly cite our work as:
+If you find it useful and used for publication. Please kindly cite our work as:
 
+```python
 @inproceedings{gao2019strip,
-
-  title={STRIP: A Defence Against Trojan Attacks on Deep Neural Networks},
-  
-  author={Gao, Yansong and Xu, Chang and Wang, Derui and Chen, Shiping and Ranasinghe, Damith C and Nepal, Surya},
-  
-  booktitle={35th Annual Computer Security Applications Conference (ACSAC)},
-  
+  title={Strip: A defence against trojan attacks on deep neural networks},
+  author={Gao, Yansong and Xu, Change and Wang, Derui and Chen, Shiping and Ranasinghe, Damith C and Nepal, Surya},
+  booktitle={Proceedings of the 35th annual computer security applications conference},
+  pages={113--125},
   year={2019}
 }
+---
